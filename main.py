@@ -1,3 +1,6 @@
-# programming
+def main():
+    print("Hello from lab1409!")
 
-vgjjrl
+
+if __name__ == "__main__":
+    main()
